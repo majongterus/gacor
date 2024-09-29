@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://majongterus.github.io/gacor/sitemap.xml
